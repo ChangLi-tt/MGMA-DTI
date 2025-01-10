@@ -1,4 +1,4 @@
-# BMS-DTI
+# MGMA-DTI
 
 # Dependencies
 
